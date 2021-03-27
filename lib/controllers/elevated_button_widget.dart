@@ -20,6 +20,7 @@ class ElevatedButtonWidget extends StatelessWidget {
         answer,
         style: TextStyle(
           fontSize: 25.0,
+          fontFamily: 'LibreBaskerville',
           color: Theme.of(context).primaryColorLight,
         ),
       ),

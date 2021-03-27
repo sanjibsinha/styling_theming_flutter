@@ -26,7 +26,8 @@ class StylingThemingFirstView extends StatelessWidget {
                   ' Click any button and check your answer!',
                   style: TextStyle(
                     fontSize: 20.0,
-                    fontWeight: FontWeight.bold,
+                    //fontWeight: FontWeight.bold,
+                    fontFamily: 'Anton',
                   ),
                 ),
                 SizedBox(height: 20.0),

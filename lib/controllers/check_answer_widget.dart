@@ -13,6 +13,7 @@ class CheckAnswerWidget extends StatelessWidget {
       context.watch<QuestionAndAnswerModel>().answerChecking,
       style: TextStyle(
         fontSize: 20.0,
+        fontFamily: 'Anton',
       ),
     );
   }
